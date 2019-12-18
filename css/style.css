@@ -1,0 +1,50 @@
+body{
+    /*background-image: linear-gradient(to bottom, white, purple, yellow);*/
+    background-image: linear-gradient(to bottom, #521035, rgb(236, 84, 24));
+    margin-left: 30px;
+    margin-top: auto;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: auto;
+}
+nav ul{
+     margin: 0px;
+    list-style: none;
+    text-align: right;
+}
+nav ul li{
+    display: inline;
+    
+    
+}
+nav ul li a{
+    padding: 2px 15px;
+    display: inline-block;
+    color:#FFFFFF ;
+
+    /* visual do link */
+    background-color:#EDEDED;
+    color: #333;
+    text-decoration: none;
+    border-bottom:3px solid #EDEDED;
+}
+
+header{
+    margin-top: 70px;
+    
+}
+h1{
+    color: #FFFFFF;
+    font-family: Ubuntu,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,
+    Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+}
+h2{
+   font-family: Ubuntu,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,
+   Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;;
+}
+p{
+    font-size: 18px;
+}
+.img_padrao{
+    margin-bottom: 20px;
+}
